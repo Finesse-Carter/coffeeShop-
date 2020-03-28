@@ -1,3 +1,4 @@
+//*Collaborated with Eric, Asiah, Vanessa, Zahmir, Nyah*/
 let orderStatus = null
 var synth = window.speechSynthesis;
 let voices = synth.getVoices();
