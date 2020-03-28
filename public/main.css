@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    background-image: url("img/coffee5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.well{
+    background-color: rgba(125, 69, 54, 0.726);
+    color: white;
+}
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+    background-color: rgba(255, 255, 255, 0.61);
+}
+h1 {
+    font-family: initial;
+    font-weight: bolder;
+}
+li{
+    color: rgb(184, 105, 77);
+    font-size: 2rem;
+    font-family: initial;
+    font-weight: bolder;
+}
+h3{
+    font-family: initial;
+    font-weight: bolder;
+    color: white;
+}

@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("img/coffee6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  h1 {
+    font-family: initial;
+    font-weight: bolder;
+    color: whitesmoke;
+  }
+  p{
+      color: whitesmoke;
+  }
+  a {
+    color: #0869be;
+    text-decoration: none;
+}

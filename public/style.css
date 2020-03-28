@@ -1,0 +1,23 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+body{
+  background-image: url("img/original.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color:rgba(245, 245, 245, 0.623);
+}
+h1 {
+  font-family: initial;
+  font-weight: bolder;
+}
