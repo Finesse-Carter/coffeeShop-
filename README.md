@@ -3,7 +3,13 @@
 ## <img src="Screenshot2.png">
 1. Clone repo
 2. run `npm install`
-
+## Tech Used:
+- HTML5
+- CSS3
+- Javascript
+- Node.js
+- Express
+- Mongo DB
 ## Usage
 
 1. run `node server.js`
